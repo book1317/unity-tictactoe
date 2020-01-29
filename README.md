@@ -3,7 +3,9 @@ This is a challenge in creating games to improve my skills.
 
  ## Day3 : TicTacToe
  
-   ![GitHub Logo](/images/image1.png)
+  <a href="https://book1317.github.io/unity-tictactoe">
+ <img src="/images/image1.png" />
+  </a>
    
 **Let's play : https://book1317.github.io/unity-tictactoe/**
 
